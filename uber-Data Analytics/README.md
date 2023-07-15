@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+This ambitious project focuses on leveraging cutting-edge tools like GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio for Uber data analytics. The integration of these technologies allows us to extract, transform, and analyze vital ride records efficiently. Our goal is to uncover valuable insights, such as ride patterns and peak hours, enabling resource optimization and improved service efficiency. Python facilitates agile data processing, while Compute Instance ensures ample computational power. The Mage Data Pipeline Tool streamlines data flow, and BigQuery empowers in-depth querying. Looker Studio's visualizations aid stakeholders in making data-driven decisions for enhanced user experience and strategic growth.
 
 ## Architecture 
 <img src="architecture.jpg">
@@ -23,16 +23,13 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 ## Dataset Used
 TLC Trip Record Data
-Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+Yellow and green taxi trip records encompass essential fields, such as pick-up and drop-off dates/times, locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. These records provide comprehensive data for analyzing taxi rides in New York City.
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
-More info about dataset can be found here:
-1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
-## Data Model
-<img src="data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
+
+
+
+
+
