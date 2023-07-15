@@ -18,9 +18,6 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
-
-
 ## Dataset Used
 TLC Trip Record Data
 Yellow and green taxi trip records encompass essential fields, such as pick-up and drop-off dates/times, locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. These records provide comprehensive data for analyzing taxi rides in New York City.
